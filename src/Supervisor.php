@@ -31,6 +31,7 @@ namespace Supervisor;
  * @method string  tailProcessStderrLog(string $name, integer $offset, integer $limit)
  * @method bool clearProcessLogs(string $name)
  * @method bool clearAllProcessLogs()
+ * @method bool reloadConfig()
  *
  * @link http://supervisord.org/api.html
  *

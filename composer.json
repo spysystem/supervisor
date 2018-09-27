@@ -1,5 +1,5 @@
 {
-    "name": "supervisorphp/supervisor",
+    "name": "spysystem/supervisor",
     "description": "PHP library for managing Supervisor through XML-RPC API",
     "license": "MIT",
     "keywords": ["supervisor", "process manager"],
